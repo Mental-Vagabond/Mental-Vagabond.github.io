@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+bundle exec jekyll serve --watch --port 4002
+#bundle exec jekyll serve --watch
