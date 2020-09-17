@@ -31,24 +31,24 @@
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+#- title: "Header Styles"
+#  url: "/headers/"
+#  side: left
+#  dropdown:
+#  - title: "Header with Full-Width-Image"
+#    url: "/design/header-full-width-image/"
+#  - title: "Header with Image and Pattern"
+#    url: "/design/header-image-pattern/"
+#  - title: "Header with image and color"
+#    url: "/design/header-image-color/"
+#  - title: "Header Only With Logo"
+#    url: "/design/header-logo-only/"
+#  - title: "Header With Text"
+#    url: "/design/header-with-text/"
+#  - title: "No Header"
+#    url: "/design/no-header/"
+#  - title: "No Header but Image"
+#    url: "/design/no-header-but-image/"
 
 #- title: Documentation
 #  url: "/documentation/"
@@ -66,10 +66,14 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "About"
+  url: "/info/"
+  side: right
+
 - title: "Search"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right
