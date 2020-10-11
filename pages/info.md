@@ -4,58 +4,40 @@ title: "About"
 subheadline: "Who is Senvestulo?"
 teaser: "Like everyone, I'm a mixture of who I used to be, who I am, who I want to be, and ..."
 permalink: "/info/"
+sidebar: right
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
-
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
-
-
-## Features
-
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+... my fondest dreams.
 
 
 
-## I got inspired by...
+## Who am I?
+### I am a:
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+* Husband
+* Father
+* Grandfather
+* Computer nerd
+* Photography hobbiest
+* Language geek
+* Person who loves to cook
+* Sci-Fi fan
+* Christian
+* Political independent with Republican leanings
+* Naturist
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
 
-#### Since then, fork it!
+## I am inspired by...
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+* Ghandi
+* Darwin Chandler
+* Leif Heilberg
 
+#### *Senvestulo* 
+Esperanto for "Person without clothing" is how I think of myself.  My mother told me once that I was the child that she could never keep clothed.  I would strip off my clothing and run around in the yard naked with her chasing me around the yard trying to get clothing back on me. I grew up poor, and my clothing always set me apart from the *"in crowd"*. As a child I loved to go out into the woods on the family farm, and strip off my trappings of civilization and feel nature around me.  I long for that again, but it's illegal in most places in the U.S. unless you own a large private plot of land. Maybe I'll retire to the countryside with a private piece of land of my own.  I hope you enjoy reading my thoughts. 
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+*The thoughts in these pages are strictly my own, most of the photographs are mine too.*
+
+Yours sincerely, 
+### *Senvestulo*
