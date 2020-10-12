@@ -4,7 +4,7 @@ show_meta: false
 title: "Articles about Christian Naturism"
 subheadline: "Knealing at the Cross, unashamed in the glory in which God created me"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: 50103758878_31d639f30d_k.jpg
 permalink: "/christian-naturism/"
 ---
 <ul>

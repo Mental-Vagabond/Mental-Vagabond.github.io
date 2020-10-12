@@ -10,6 +10,8 @@ tags:
     - Naturism
     - Christianity
     - Christian Naturism
+categories:
+    - christian-naturism
 permalink: /christian-naturism/Bible_Verses_With_Nudity/
 header:
     image_fullwidth: "30660796478_61d5ae01d1_k.jpg"
@@ -37,7 +39,7 @@ And when Moses saw that the people were naked; (for Aaron had made them naked un
 #### Leviticus 18:6-18
 6 None of you shall approach to any that are near of kin to him, to uncover their nakedness: I am Jehovah. i
 #### Leviticus 18:6-19
-6 None of you shall approach to any that are near of kin to him, to uncover their nakedness: I am Jehovah. i
+6 None of you shall approach to any that are near of kin to him, to uncover their nakedness: I am Jehovah.
 7 The nakedness of thy father, even the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness. 
 8 The nakedness of thy father’s wife shalt thou not uncover; it is thy father’s nakedness. 
 9 The nakedness of thy sister, the daughter of thy father, or the daughter of thy mother, whether born at home, or born abroad, even their nakedness thou shalt not uncover. 

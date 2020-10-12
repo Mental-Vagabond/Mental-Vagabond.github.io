@@ -6,6 +6,8 @@ title:  "Can a Christian be a Naturist?"
 teaser: "That's one of the most common questions asked when I tell someone I'm a Christian and a Naturist.  Come study the bible with me and find out why I think the two are not mutually exclusive."
 breadcrumb: true
 categories:
+    - christian-naturism
+tags:
     - Bible
     - Christian Naturism
     - christianity
