@@ -20,7 +20,7 @@ header:
 
 There are many places in the Bible where people who are nude are mentioned.  Many of the verses we've heard preached to us from the pulpit with a negative spin, and in our nudity phobic society, we rarely hear anything positive about nakedness.  Here are what I could find.  Let's read through them.
 <!--more-->
-
+by Senvestulo - Sept. 30, 2020
 * * *
 
 ### Old Testament
