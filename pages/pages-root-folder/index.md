@@ -35,7 +35,7 @@ widget3:
 callforaction:
   url: /info/
   text: About Me...
-  style: info
+  style: success
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
