@@ -17,7 +17,7 @@ widget2:
   url: '/christian-naturism/Bible_Verses_With_Nudity/'
   image: Waterfall-thumb.png
   text: "There are many places in the Bible where people who are nude are mentioned.  Many of the verses we've heard preached to us from the pulpit with a negative spin, and in our nudity phobic society, we rarely hear anything positive about nakedness.  Here are what I could find.  Let's read through them."
-#widget3:
+widget3:
   title: "Who influenced my life decisions?"
   url: '/christian-naturism/Influencers/'
   image: Pond-thumb.png
