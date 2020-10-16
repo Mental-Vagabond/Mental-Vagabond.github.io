@@ -41,3 +41,7 @@ Esperanto for "Person without clothing" is how I think of myself.  My mother tol
 
 Yours sincerely, 
 ### *Senvestulo*
+
+* * *
+### About the Photo:
+I took the photo at the top of this page at Black's Beach in San Diego (La Jolla), California.  The photo was taken from scenic overlook at the top of the cliff above the beach.

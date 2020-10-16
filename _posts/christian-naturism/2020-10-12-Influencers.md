@@ -38,3 +38,8 @@ Unfortunately for us, he died in 2018, disillusioned, and rejecting Christianity
 Naturist, Photographer, Esperantist.  I identify so much with this man.  He used to have much of his works on a website where one could go and browse them.  I wish I had copied his works locally.  After he passed away his family took down his works, and they are very hard to find anymore.  He published several books, though.  I'll have to purchase some of them.  
 
 Leif made his living as a professional photographer.  He traveled the world and photographed the naturist movement around the globe.  He had a Photography Studio in San Francisco, California, but his work was also was well represented in Naturist magazines around the world. [His Obituary](https://www.esperanto-naturismo.org/leif-heilberg-forpasis){:target="_blank"} (in Esperanto) on the website of INOE, the organization of Naturists who choose to learn and speak the international language.  His books and other works he contributed to are for sale on [Amazon](https://www.amazon.com/Books-Leif-Heilberg/s?rh=n%3A283155%2Cp_27%3ALeif+Heilberg){:target="_blank"}
+
+
+* * *
+### About the Photo:
+The photo at the top of this page is a panorama of a beautiful pond that I ran across while hiking in LBJ National Grasslands in North Texas.   It was a very peaceful day, and I took 5 separate photos from left to right with my Canon DSLR, and stitched them together into a panorama in Adobe Lightroom.

@@ -140,3 +140,8 @@ I believe that God is consistent, it is man that has introduced inconsistencies 
 I believe that many of our churches fit into the warning that Christ gave in Matt. 6:6
 
 I see all of this as proof that God has no problem with nudity.  Remember, God said Adam and Eve’s nudity in the garden was “Very good”.
+
+* * *
+
+### About the Photo:
+This is not mine.  I found it on the Internet.  I liked it because it didn't portray Adam & Eve as necessarially white with caucasian features, there's a little color in their skin, and Adam wasn't clean shaven like so many pictures of them.  It's more the way I think they probably were, although their skin was probably darker brown.

@@ -12,3 +12,7 @@ permalink: "/christian-naturism/"
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+* * *
+### About the Photo:
+The photo at the top of this page was taken by me in Martin Dies Jr. State Park on the shores of Steinhagan Reservoir in East Texas.  I tok the photo in in panorama mode with my iPhone 7

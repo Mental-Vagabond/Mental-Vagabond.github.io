@@ -50,3 +50,8 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+* * *
+
+### Abut the Photo: 
+The photo at the top of this page was taken by me at Black's Beach in San Diego, California.  I took it from the southern border of the clothing optional section pointing north showing a large portion of that section.  I took it with my Sony a6500 mirrorless camera. 

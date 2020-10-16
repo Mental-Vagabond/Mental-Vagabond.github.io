@@ -152,4 +152,6 @@ Behold, I come as a thief. Blessed [is] he that watcheth, and keepeth his garmen
 #### Revelations 17:16
 And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
 
-
+* * *
+### About the Photo:  
+The photo at the top of the page is a panorama that I took in a beautiful section of Bryce Canyon National Park in Southern Utah.  I took the photo with my iPhone7 in panorama mode.
