@@ -33,4 +33,4 @@ I hope one day, the opinions expressed in this book will become more widely acce
 * * *
 
 ### About the Photo:
-I took this panorama photo (top of page) with my iPhone 7 at Bryce Canyon National Park in Southern Utah.
+I took this panorama photo (top of page) by taking multiple photos with my Canon DSLR at Bryce Canyon National Park in Southern Utah, then postprocessing with Adobe lightroom.
