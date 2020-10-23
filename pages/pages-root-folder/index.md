@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
+  title: "Divine Sex"
+  url: '/christian-naturism/Book_Report-Divine_Sex/'
+  image: DivineSexCover.jpg
+  text: "The first book I ever read that said many of the same things that I had found in the Bible"
+widget2:
   title: "Can a Christian be a Naturist?"
   url: '/christian-naturism/Can_A_Christian_Be_A_Naturist/'
   image: Adam&Eve-thumb.png
   text: "This is the question that I'm asked most often when people find out that I'm both a Christian and a Naturist.  Is Christianity opposed to nudity or nudism?  Come study the Bible with me and find out what it says about being naked"
-widget2:
+widget3:
   title: "Who influenced my life decisions?"
   url: '/christian-naturism/Influencers/'
   image: Pond-thumb.png
   text: "Many people have influenced my life.  I'm going to talk about the list that's in my 'About' page.  The people who influenced me to admit my life choices, and start this blog."
-widget3:
-  title: "Let me introduce: Sunny Day"
-  url: '/christian-naturism/Sunny Day/'
-  image: sunnyday-add.png
-  text: "I found encouragement along the way on my journey.  One of the most encouraging was Sunny Day."
 #
 # Use the call for action to show a button on the frontpage
 #

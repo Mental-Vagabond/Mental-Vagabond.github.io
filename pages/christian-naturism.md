@@ -15,4 +15,4 @@ permalink: "/christian-naturism/"
 
 * * *
 ### About the Photo:
-The photo at the top of this page was taken by me in Martin Dies Jr. State Park on the shores of Steinhagan Reservoir in East Texas.  I tok the photo in in panorama mode with my iPhone 7
+The photo at the top of this page was taken by me in Martin Dies Jr. State Park on the shores of Steinhagan Reservoir in East Texas.  I took the photo in panorama mode with my iPhone 7
