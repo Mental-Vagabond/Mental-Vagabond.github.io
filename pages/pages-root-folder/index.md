@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Divine Sex"
-  url: '/christian-naturism/Book_Report-Divine_Sex/'
-  image: DivineSexCover.jpg
-  text: "The first book I ever read that said many of the same things that I had found in the Bible"
+  title: "Aching for Eden"
+  url: '/christian-naturism/AchingForEden/'
+  image: GoldenGateFromBakersBeach-thumb.png
+  text: "A more recent addition, a Christian Naturist blog that I really enjoy.  I hope you enjoy it as much as I do."
 widget2:
   title: "Can a Christian be a Naturist?"
   url: '/christian-naturism/Can_A_Christian_Be_A_Naturist/'
