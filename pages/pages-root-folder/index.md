@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Aching for Eden"
-  url: '/christian-naturism/AchingForEden/'
-  image: GoldenGateFromBakersBeach-thumb.png
-  text: "A more recent addition, a Christian Naturist blog that I really enjoy.  I hope you enjoy it as much as I do."
+  title: "My Story"
+  url: '/christian-naturism/My_Story/'
+  image: 44543143931_5980b42887_k-thumb.png
+  text: "I grew up a nudist, in the Bible belt of the Southern U.S."
 widget2:
   title: "Can a Christian be a Naturist?"
   url: '/christian-naturism/Can_A_Christian_Be_A_Naturist/'

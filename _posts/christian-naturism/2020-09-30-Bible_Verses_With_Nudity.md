@@ -21,8 +21,8 @@ header:
 * * *
 
 There are many places in the Bible where people who are nude are mentioned.  Many of the verses we've heard preached to us from the pulpit with a negative spin, and in our nudity phobic society, we rarely hear anything positive about nakedness.  Here are what I could find.  Let's read through them.
-<!--more-->
-by Senvestulo - Sept. 30, 2020
+
+#### by Senvestulo - Sept. 30, 2020
 * * *
 
 ### Old Testament
@@ -36,8 +36,6 @@ And the eyes of them both were opened, and they knew that they were naked; and t
 ... and he drank of the wine, and was drunken; and he was uncovered within his tent.
 #### Exodus 32:25
 And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)
-#### Leviticus 18:6-18
-6 None of you shall approach to any that are near of kin to him, to uncover their nakedness: I am Jehovah. i
 #### Leviticus 18:6-19
 6 None of you shall approach to any that are near of kin to him, to uncover their nakedness: I am Jehovah.
 7 The nakedness of thy father, even the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness. 
@@ -50,9 +48,9 @@ And when Moses saw that the people were naked; (for Aaron had made them naked un
 14 Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she is thine aunt. 
 15 Thou shalt not uncover the nakedness of thy daughter-in-law: she is thy son’s wife; thou shalt not uncover her nakedness. 
 16 Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness. 
-17 Thou shalt not uncover the nakedness of a woman and her daughter; thou shalt not take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; they are near kinswomen: it is [b]wickedness. 
+17 Thou shalt not uncover the nakedness of a woman and her daughter; thou shalt not take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; they are near kinswomen: it is wickedness. 
 18 And thou shalt not take a wife to her sister, to be a rival to her, to uncover her nakedness, besides the other in her life-time.
-19 And thou shalt not approach unto a woman to uncover her nakedness, as long as she is [c]impure by her uncleanness. 
+19 And thou shalt not approach unto a woman to uncover her nakedness, as long as she is impure by her uncleanness. 
 
 #### 1 Samuel 19:24
 And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, Is Saul also among the prophets?
