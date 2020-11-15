@@ -137,7 +137,7 @@ And what about Circumcision?  This was the sign that God gave to the Isrealites 
 
 I believe that God is consistent, it is man that has introduced inconsistencies into life and morality.  God expected man and woman to live together, nude, for their entire life.  This was his original plan for our race, and why the Garden of Eden was created.  Neither God, Jesus nor the apostles said anything negative about a person choosing to be naked anywhere in the old or new testaments.  All of the passages that our preachers point at to backup our culture’s nude phobia don’t say never be naked, they say “don’t force others to be naked”.  The Apostles said that it was a sin for people to have no clothes to put on for protection against the cold, but that was a condemnation of the church, that the church was not providing necessities of life for the people too poor to afford them.  A condemnation of the church for not providing for the poor in their community.  It was not a condemnation of the people themselves for being nude. 
 
-I believe that many of our churches fit into the warning that Christ gave in Matt. 6:6
+I believe that many of our churches fit into the warning that Christ gave in [Matt. 16:6](https://www.biblegateway.com/passage/?search=Matthew+16%3A+6&version=ASV){:target="_blank"} - [chap](https://www.biblegateway.com/passage/?search=Matthew+16&version=ASV){:target="_blank"}.  He went on in [chapter 23](https://www.biblegateway.com/passage/?search=Matthew+23&version=ASV){:target="_blank"} to further expand on what he was talking about.
 
 I see all of this as proof that God has no problem with nudity.  Remember, God said Adam and Eve’s nudity in the garden was “Very good”.
 
