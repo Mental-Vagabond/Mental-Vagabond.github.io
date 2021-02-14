@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Book Report: Meeting at the River"
-  url: '/christian-naturism/Book_Report-Meet-at-the-River/'
-  image: MeetingAtTheRiver.jpg
-  text: "A beautiful story about the social life of the first century Christans, and the Bible verses to back it up."
+  title: "My Map of Locations of social nudity"
+  url: '/christian-naturism/My_Map/'
+  image: GoldenGateFromBakersBeach-thumb.png
+  text: "I've always wanted to see a map of the world with as many nudist/naturist venues as I could"
 widget2:
   title: "Can a Christian be a Naturist?"
   url: '/christian-naturism/Can_A_Christian_Be_A_Naturist/'
@@ -53,5 +53,5 @@ homepage: true
 
 * * *
 
-### Abut the Photo: 
+### About the Photo: 
 The photo at the top of this page was taken by me at Black's Beach in San Diego, California.  I took it from the southern border of the clothing optional section pointing north showing a large portion of that section.  I took it with my Sony a6500 mirrorless camera. 
