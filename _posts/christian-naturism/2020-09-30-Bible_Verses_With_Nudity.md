@@ -126,6 +126,8 @@ Then shall they also answer him, saying, Lord, when saw we thee an hungered, or 
 And there followed him a certain young man, having a linen cloth cast about [his] naked [body]; and the young men laid hold on him:
 #### Mark 14:52
 And he left the linen cloth, and fled from them naked.
+#### Mark 10:50
+And he, casting away his garment, rose, and came to Jesus.
 #### Luke 3:11
 And he would answer and say to them, “The man who has two tunics is to share with him who has none; and he who has food is to do likewise.”
  
