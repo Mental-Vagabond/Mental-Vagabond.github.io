@@ -122,12 +122,12 @@ When saw we thee a stranger, and took [thee] in? or naked, and clothed [thee]?
 I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.
 #### Matthew 25:44
 Then shall they also answer him, saying, Lord, when saw we thee an hungered, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?
+#### Mark 10:50
+And he, casting away his garment, rose, and came to Jesus.
 #### Mark 14:51
 And there followed him a certain young man, having a linen cloth cast about [his] naked [body]; and the young men laid hold on him:
 #### Mark 14:52
 And he left the linen cloth, and fled from them naked.
-#### Mark 10:50
-And he, casting away his garment, rose, and came to Jesus.
 #### Luke 3:11
 And he would answer and say to them, “The man who has two tunics is to share with him who has none; and he who has food is to do likewise.”
  
