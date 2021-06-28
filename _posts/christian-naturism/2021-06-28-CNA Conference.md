@@ -10,7 +10,7 @@ categories:
 tags:
     - Christian Naturism
     - naturism
-permalink: /christian-naturism/My_Map/
+permalink: /christian-naturism/CNA_Conference/
 header:
     image_fullwidth: "44463224042_ffdaa313c9_k.jpg"
 ---
