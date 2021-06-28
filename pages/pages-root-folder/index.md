@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "My Map of Locations of social nudity"
-  url: '/christian-naturism/My_Map/'
-  image: GoldenGateFromBakersBeach-thumb.png
-  text: "I've always wanted to see a map of the world with as many nudist/naturist venues as I could"
+  title: "CNA Convention"
+  url: '/christian-naturism/CNA_Conference/'
+  image: ChristianNaturistsOfAmerica.png
+  text: "I've finally joined a Christian Naturist organization, and I am attending a conference"
 widget2:
   title: "Can a Christian be a Naturist?"
   url: '/christian-naturism/Can_A_Christian_Be_A_Naturist/'
   image: Adam&Eve-thumb.png
   text: "This is the question that I'm asked most often when people find out that I'm both a Christian and a Naturist.  Is Christianity opposed to nudity or nudism?  Come study the Bible with me and find out what it says about being naked"
 widget3:
-  title: "Who influenced my life decisions?"
-  url: '/christian-naturism/Influencers/'
-  image: Pond-thumb.png
-  text: "Many people have influenced my life.  I'm going to talk about the list that's in my 'About' page.  The people who influenced me to admit my life choices, and start this blog."
+  title: "My Map of Locations of social nudity"
+  url: '/christian-naturism/My_Map/'
+  image: GoldenGateFromBakersBeach-thumb.png
+  text: "I've always wanted to see a map of the world with as many nudist/naturist venues as I could"
 #
 # Use the call for action to show a button on the frontpage
 #
